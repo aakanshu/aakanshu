@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Let's Collaborate or just talk!
 
+>![visitors](https://visitor-badge.glitch.me/badge?page_id=aakanshu.aakanshu)
+
 >![Aakanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakanshu&show_icons=true&theme=cobalt)
 
 <!-- ### Connect with me:
