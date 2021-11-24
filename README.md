@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> - 🔭 I’m currently working on Full Stack Development, AWS.
+> - 🔭 I’m currently working on Full Stack Development, AWS and Azure.
 > - 🌱 I’m currently learning IOT
 > - 👯 I’m looking to collaborate on projects.
 > - 💬 Ask me about anything!
